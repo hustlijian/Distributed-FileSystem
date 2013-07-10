@@ -1,4 +1,4 @@
-forked from [ankscircle][]
+forked from [ankscircle](https://github.com/ankscircle/Distributed-FileSystem)
 1. We have the following files:
 a. dfsserver.c (The Master Server Program)
 b. dfsclient.c (The Client Program)
@@ -32,4 +32,3 @@ Syntax:
 
 4. Create a file named .logging in present working directory of server
 
-[ankscircle]: https://github.com/ankscircle/Distributed-FileSystem
