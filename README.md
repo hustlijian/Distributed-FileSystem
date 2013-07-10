@@ -5,8 +5,8 @@ forked from [ankscircle](https://github.com/ankscircle/Distributed-FileSystem)
   b. dfsclient.c (The Client Program)  
   c. dfsslaveserver.c (The Slave Server Program)  
   d. Makefile  
-  e. Enhancement.txt  
-  f. README.txt  
+  e. Enhancement  
+  f. README.md
 
 2. The dfsslaveserver.c needs to be invoked first, followed by dfsserver.c and then dfsclient.c 
 
