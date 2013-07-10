@@ -1,6 +1,6 @@
 forked from [ankscircle](https://github.com/ankscircle/Distributed-FileSystem) 
 
-1. We have the following files: 
+1. We have the following files:  
   a. dfsserver.c (The Master Server Program)  
   b. dfsclient.c (The Client Program)  
   c. dfsslaveserver.c (The Slave Server Program)  
